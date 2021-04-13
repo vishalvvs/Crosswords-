@@ -1,0 +1,10 @@
+body{
+    background-image: url(morgan-vander-hart-nSwF6peneRM-unsplash.jpg);
+}
+h1 {
+    color: azure;
+}
+h2 {
+    color: greenyellow;
+    text-shadow: 2px 2px 8px white;
+}
